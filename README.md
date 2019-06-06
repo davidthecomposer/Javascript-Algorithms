@@ -5,6 +5,7 @@ A collection of Javascript algorithms that I solved on my own. I will continue a
   My name is David Campbell,  I'm a new coder and composer who is passionate about both subjects. Take a look at my portfolio and my [music site](www.davidhalcampbell.com) to see more of my work.
 
  I'm currently available for exciting projects.
+ 
  <img src="https://drive.google.com/uc?export=view&id=1cOa2jFa80NbKhmxonjvUUXQ4vtqqIkIn" alt="Me" width="200"/>
 
  #  About these Algorithms
