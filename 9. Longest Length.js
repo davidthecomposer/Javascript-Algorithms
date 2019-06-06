@@ -1,5 +1,5 @@
 //////////////////////// Longest length //////////////////////////////////
------------------------ First solution --------------------------------//
+//----------------------- First solution --------------------------------//
 const longWord = (str) => {
   let sentenceArray = [];
   sentenceArray = str.split(" ");
@@ -8,7 +8,7 @@ const longWord = (str) => {
   });
   return sentenceArray.shift().length;
 };
-----------------------Second solution-----------------------------------//
+//----------------------Second solution-----------------------------------//
 const longWord = (str) => {
   let longLength = 0;
   let strArray = str.split(" ");
