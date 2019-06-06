@@ -4,7 +4,8 @@ A collection of Javascript algorithms that I solved on my own. I will continue a
 # A little bit about me
   My name is David Campbell,  I'm a new coder and composer who is passionate about both subjects. Take a look at my portfolio and my [music site](www.davidhalcampbell.com) to see more of my work.
 
- I'm currently available for exciting projects. <img src="https://drive.google.com/uc?export=view&id=1cOa2jFa80NbKhmxonjvUUXQ4vtqqIkIn" alt="Me" width="200"/>
+ I'm currently available for exciting projects.
+ <img src="https://drive.google.com/uc?export=view&id=1cOa2jFa80NbKhmxonjvUUXQ4vtqqIkIn" alt="Me" width="200"/>
 
  #  About these Algorithms
  1 - Several functions that take in two numbers and performs basic math on those numbers.
